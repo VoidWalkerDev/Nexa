@@ -85,4 +85,4 @@ Contributions are welcome! Feel free to fork the repository, make improvements, 
 
 ## Acknowledgements
 
-This project was developed with the assistance of AI, demonstrating its potential in software development.
+This project was developed by the devs with the assistance of AI, demonstrating its potential in software development.
