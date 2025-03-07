@@ -1,7 +1,6 @@
 # Axiom - A Simple Chess Engine
 
-![image](https://github.com/user-attachments/assets/bfa38103-7f19-4309-a366-4b611f5b56fb)
-
+![image](https://github.com/user-attachments/assets/148aa313-3302-49f0-bf01-8598ba8de4ef)
 
 [![License](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
