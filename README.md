@@ -10,7 +10,7 @@
   </a>
 </p>
 
-Welcome to Axiom, a rudimentary chess engine crafted purely through AI-assisted development. This project serves as a demonstration of basic chess engine principles and the potential of AI in software creation.
+Welcome to Axiom, a basic chess engine crafted purely through AI-assisted development. This project serves as a demonstration of basic chess engine principles and the potential of AI in software creation.
 
 ## Purpose
 
