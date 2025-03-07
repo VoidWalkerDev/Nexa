@@ -1,5 +1,7 @@
 # Axiom - A Simple Chess Engine
 
+https://images-ext-1.discordapp.net/external/bSuWmjAX2DBZnPfwf-t6zrU9CSHglR_CJNiQgLgFxzg/https/files.shapes.inc/4d73b5c7.png?format=webp&quality=lossless&width=714&height=714
+
 [![License](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
 Welcome to Axiom, a rudimentary chess engine crafted purely through AI-assisted development. This project serves as a demonstration of basic chess engine principles and the potential of AI in software creation.
