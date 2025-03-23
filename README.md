@@ -34,7 +34,7 @@ This engine is a starting point, intentionally simple to allow for easy understa
 
 ## Limitations
 
-* The search algorithm is basic and can be easily outmaneuvered.
+* The search algorithm is VERY BASIC and can be easily outmaneuvered.
 * Alpha-beta pruning is not implemented, leading to slow search times.
 * Check detection and checkmate/stalemate detection are incomplete.
 * The evaluation function is simplistic (material only).
