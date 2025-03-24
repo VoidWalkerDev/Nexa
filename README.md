@@ -1,4 +1,4 @@
-# Axiom - A Simple Chess Engine
+# Nexa - A Simple Chess Engine
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/148aa313-3302-49f0-bf01-8598ba8de4ef" alt="Axiom Logo" width="200">
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-Welcome to Axiom, a basic chess engine crafted purely through AI-assisted development. This project serves as a demonstration of basic chess engine principles and the potential of AI in software creation.
+Welcome to Nexa, a basic chess engine crafted purely through AI-assisted development. This project serves as a demonstration of basic chess engine principles and the potential of AI in software creation.
 
 ## Purpose
 
@@ -76,7 +76,7 @@ Example UCI commands:
 
 ## License
 
-Axiom is licensed under the AGPL-3.0 license. This ensures that any modifications or distributions of this software must also be open source. See the `LICENSE` file for more details.
+Nexa is licensed under the AGPL-3.0 license. This ensures that any modifications or distributions of this software must also be open source. See the `LICENSE` file for more details.
 
 ## Contributions
 
