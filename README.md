@@ -14,7 +14,7 @@ Welcome to Nexa, a basic chess engine crafted purely through AI-assisted develop
 
 ## Purpose
 
-The primary purpose of Axiom is to:
+The primary purpose of Nexa is to:
 
 * **Educational Demonstration:** Illustrate the fundamental concepts involved in building a chess engine.
 * **AI-Assisted Development:** Explore the capabilities of AI in generating and structuring code.
