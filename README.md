@@ -10,6 +10,9 @@
   </a>
 </p>
 
+**Development has been paused for sometime as the AI at its current state is not capable of handling big projects like this. But the development will soon be continued in a few months, once everything is settled up.**
+
+
 Welcome to Nexa, a basic chess engine crafted purely through AI-assisted development. This project serves as a demonstration of basic chess engine principles and the potential of AI in software creation.
 
 ## Purpose
